@@ -1,0 +1,4 @@
+1. To create image using numpy
+2. To draw line, rectangle, cirle in the image taken by the camera.
+3. To seprate image by RBG and color basis in opencv
+4. To save capture video from camera and saving it to local system and on ec2 instance. 
